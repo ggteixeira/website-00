@@ -46,7 +46,7 @@
   },
   "devDependencies": {
     "@typescript-eslint/parser": "^5.62.0",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^5.0.0",
     "prettier": "^2.8.8",
     "typescript": "^4.9.5"
   },
